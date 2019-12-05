@@ -1,2 +1,2 @@
 This is a test file.
-I have updated it
+I have updated it.
